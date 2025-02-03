@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Nova versão com auto-atualização",
+  "version": "1.0.3",
+  "notes":"Reorganização dos itens do menu lateral",
   "pub_date": "2024-02-03T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRmYvbklnMis0dEc1cWFvbktFS3ZnQ0VueUZ1TlFjam1CZ2hXR2JNQnlGaFlCVTV3RC9ydzB4a0VINkVJdElFVDdhR0c1UnNGNTdRTzB4R2ZFV1YxRW0zOVVDeGRkckFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NTUxMzk1CWZpbGU6U2lzdGVtYSBkZSBFdGlxdWV0YXNfMS4wLjJfeDY0LXNldHVwLm5zaXMuemlwCnVlTzlaVy92ZXpGcWs3b25INmVnV1pLRTJWS25zR1hyVHhDSzNsUzFnQjVSRzhMT2h2cWVwbWFtMEN5U1FhaVh2QVZEYkpBcjJMUldsNEJvWW5SMUJ3PT0K",
-      "url": "https://github.com/celsojuniorladislau/SistemaDeImpressaoDeEtiquetas/releases/download/%22v1.0.2/Sistema.de.Etiquetas_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRmYvbklnMis0dEVHZExJWjF0OXQvM05JTzhFbTRzb2dLY3FJemdCQjZxK09oOFM1U0psL0ZlcUcrSjdTRjVrTUVtQVhROUVkNHRXeFpRUXI1NzcwVS9taEZhQ0NvYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NjExMjUwCWZpbGU6U2lzdGVtYSBkZSBFdGlxdWV0YXNfMS4wLjNfeDY0LXNldHVwLm5zaXMuemlwCmQ4QlRDZ2s1b1hLeDZvd1FqbXVvSEl1czNqV0Y5a0htbnRZTW94ZlR1MDJYcEJTd1locFlxeStjZXBvdCtldURlT2JicU00R2gvc1J3QVFOUXBWS0NnPT0K",
+      "url": "https://github.com/celsojuniorladislau/SistemaDeImpressaoDeEtiquetas/releases/download/v1.0.3/Sistema.de.Etiquetas_1.0.3_x64-setup.exe"
     }
   }
 }
