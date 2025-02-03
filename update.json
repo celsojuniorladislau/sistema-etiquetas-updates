@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes":"Reorganização dos itens do menu lateral",
-  "pub_date": "2024-02-03T00:00:00Z",
+  "version": "1.0.4",
+  "notes":"correção de endpoint do tauri.conf.json",
+  "pub_date": "2024-02-03",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRmYvbklnMis0dEVHZExJWjF0OXQvM05JTzhFbTRzb2dLY3FJemdCQjZxK09oOFM1U0psL0ZlcUcrSjdTRjVrTUVtQVhROUVkNHRXeFpRUXI1NzcwVS9taEZhQ0NvYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NjExMjUwCWZpbGU6U2lzdGVtYSBkZSBFdGlxdWV0YXNfMS4wLjNfeDY0LXNldHVwLm5zaXMuemlwCmQ4QlRDZ2s1b1hLeDZvd1FqbXVvSEl1czNqV0Y5a0htbnRZTW94ZlR1MDJYcEJTd1locFlxeStjZXBvdCtldURlT2JicU00R2gvc1J3QVFOUXBWS0NnPT0K",
-      "url": "https://github.com/celsojuniorladislau/SistemaDeImpressaoDeEtiquetas/releases/download/v1.0.3/Sistema.de.Etiquetas_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRmYvbklnMis0dE1WMGl0N0JiMFVhSGNTSGg3dkR0QWozbVppeWd0SFpESno2VS9WaFh2UG5zZUJCN08yZFVqeDk5akpsOEszSnI3MWtIOUNwS1N3NmdQYlJpdjRmdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NjEzMjgxCWZpbGU6U2lzdGVtYSBkZSBFdGlxdWV0YXNfMS4wLjRfeDY0LXNldHVwLm5zaXMuemlwCk5UM2wyWjJNZUgxelBON3Y4Q1M5Q3Job0x6NEhmYXJORkJ1VDFjd2FVb0ZJS1hXc1lQeVpUNTlvY3VGQUE5VERia0QySENaTGZPZ1F2M003U0Zia0RRPT0K",
+      "url": "https://github.com/celsojuniorladislau/SistemaDeImpressaoDeEtiquetas/releases/download/v1.0.4/Sistema.de.Etiquetas_1.0.4_x64-setup.exe"
     }
   }
 }
